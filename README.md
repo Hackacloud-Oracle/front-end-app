@@ -14,7 +14,7 @@ Temos um vídeo prontinho, mostrando como instalar tudo que você precisa no seu
 
 Se chegou a hora de codificar sua aplicação e bateu aquela dúvida de como fazer um CRUD no react.js, fique tranquilo(a). Aqui nesse link ja temos um video mostrando como fazer todos os steps para você codar os métodos, gerar uma imagem docker e rodar sua aplicação em um container local. Acesse o link abaixo:
 
-[Já cansou de tentar?](https://videohub.oracle.com/media/Hack%40Cloud+-+Codificando+e+rodando+app+no+Docker/1_uu5z84mh)
+[Já cansou de tentar? Clique aqui rs](https://videohub.oracle.com/media/Hack%40Cloud+-+Codificando+e+rodando+app+no+Docker/1_uu5z84mh)
 
 # Atenção: Dica para rodar o projeto em container
 
