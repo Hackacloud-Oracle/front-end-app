@@ -56,5 +56,5 @@ O código ficara assim:
 
 ````
 
-Pronto, agora podemos gerar a imagem docker e colocar pra rodar no container. Para rodar novamente a aplicação, remova o trecho que tudo voltará ao normal.
+Pronto, agora podemos gerar a imagem docker e colocar pra rodar no container. Para rodar novamente a aplicação localmente, remova o trecho que tudo voltará ao normal.
 
