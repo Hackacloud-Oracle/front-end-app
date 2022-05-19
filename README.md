@@ -16,7 +16,7 @@ Se chegou a hora de codificar sua aplicação e bateu aquela dúvida de como faz
 
 [Já cansou de tentar? Clique aqui rs](https://videohub.oracle.com/media/Hack%40Cloud+-+Codificando+e+rodando+app+no+Docker/1_uu5z84mh)
 
-### IMPORTANTE
+### IMPORTANTE - CORS
 
 Durante as integrações entre front-end e o endpoint back-end, podemos receber alguns erros de **Access-Control-Allow-Origin** o famoso **CORS**. Para resolver esse problema, também fizemos um vídeo explicando como configurar sua requisição, para fazer autenticação de forma correta e liberar o CORS via header. Acesse o link abaixo: 
 
