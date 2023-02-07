@@ -24,7 +24,7 @@ Durante as integrações entre front-end e o endpoint back-end, podemos receber 
 
 # Atenção: Dica para rodar o projeto em container
 
-Nossa aplicação possui uma peculiaridade. É necessário fazer uma única alteração para que ela consiga rodar dentro do container tanto local como no OKE da Oracle.
+Nossa aplicação possui uma peculiaridade. É necessário fazer uma única alteração para que ela consiga rodar dentro tanto local como no OKE da Oracle.
 
 Hoje no nosso arquivo package.json temos o seguinte script:
 
@@ -48,7 +48,7 @@ O código ficara assim:
 ````
 
   "scripts": {
-    "start": "react-scripts --openssl-legacy-provide start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -56,5 +56,5 @@ O código ficara assim:
 
 ````
 
-Pronto, agora podemos gerar a imagem docker e colocar pra rodar no container. Para rodar novamente a aplicação localmente, remova o trecho que tudo voltará ao normal.
+Pronto, agora podemos gerar a imagem docker e colocar pra rodar local eno container.
 
